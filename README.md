@@ -6,7 +6,9 @@ This is my custom AwesomeWM config repository. It is based heavily on the [Deser
 * vicious
 * redshift
 * xlock
+
 ### Ubuntu Quickstart
+
 ```
 # apt-get install awesome{,-extras} xlockmore redshift
 # cd ~/.config
