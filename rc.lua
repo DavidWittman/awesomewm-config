@@ -429,6 +429,7 @@ client.add_signal("unfocus", function(c) c.border_color = beautiful.border_norma
 
 -- Start at runtime
 run_once("redshift")
+run_once("dropbox start")
 run_once("xrandr", "--output DVI-I-2 --right-of DVI-I-1")
 
 -- }}}
